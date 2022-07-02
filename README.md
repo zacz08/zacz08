@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @zacharyzhang95
+- 👋 Hi, I’m 张程 Cheng Zhang
 - 👀 I’m interested in Robotics and Autonomous Vehicle
 - 🌱 I’m currently learning Robotics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me please contact my email zachayzhang95@163.com
 
 <!---
