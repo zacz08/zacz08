@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 张程 Cheng Zhang
-- 👀 I’m interested in Robotics and Autonomous Vehicle
-- 🌱 I’m currently learning Robotics
+- 👀 I’m interested in computer vision and autonomous vehicles
+- 🌱 I’m currently a doctoral student of computer science
 - 📫 How to reach me please contact my email zachayzhang95@163.com
 
 <!---
