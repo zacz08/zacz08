@@ -1,7 +1,17 @@
-- 👋 Hi, I’m 张程 Cheng Zhang
+# Hey, I'm Zachary 👋
 - 👀 I’m interested in computer vision and autonomous vehicles
 - 🌱 I’m currently a doctoral student of computer science
-- 📫 How to reach me please contact my email zachayzhang95@163.com
+
+## Connection with me
+[![Linkedin Badge](https://img.shields.io/badge/-Zachary-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zacharyzhang95/)](https://www.linkedin.com/in/zacharyzhang95/)
+[![Gmail Badge](https://img.shields.io/badge/-zacharyzhang95-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zacharyzhang95@163.com)](mailto:zacharyzhang95@163.com)
+[![Facebook Badge](https://img.shields.io/badge/-张程-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.facebook.com/ZacharyZhang95/)](https://www.facebook.com/ZacharyZhang95/)
+[![csdn](https://img.shields.io/badge/-csdn-c14438?style=flat-square&logo=c&logoColor=white)](https://blog.csdn.net/zacharyzhang95/)
+<br/>  
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=zacharyzhang95&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacharyzhang95&hide_border=true&layout=compact" align="left" />  
 
 <!---
 zacharyzhang95/zacharyzhang95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
